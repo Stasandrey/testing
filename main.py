@@ -4,6 +4,7 @@
 
 def main():
     print("Hello")
+    print("123456")
 
 if __name__ == "__main__":
 
