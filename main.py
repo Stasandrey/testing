@@ -1,8 +1,9 @@
+#! /usr/bin/python3
 
 # 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
 
 def main():
-    pass
+    print("Hello")
 
 if __name__ == "__main__":
 
